@@ -7,8 +7,8 @@ R. S. Sutton and A. Barto. Online version of the book can be found here:
 Implementation includes following algorithms:
 - Sarsa,
 - Q-learning,
-- Sarsa(\lambda),
-- Watkins's Q(\lambda)
+- Sarsa(λ),
+- Watkins's Q(λ)
 and e-greedy policy with some modifications.
 
 Agent is prepared to work in RL-Library environment (http://library.rl-community.org), especially solving Mountain Car and CartPole problems.
